@@ -10,9 +10,9 @@ import donTorrent from './dontorrent.js';
 
 
 const builder = new addonBuilder({
-    id: 'org.EStorrent',
+    id: 'org.EStorrents',
     version: '1.0.0',
-    name: 'EStorrent',
+    name: 'EStorrents',
     // Properties that determine when Stremio picks this addon
     // this means your addon will be used for streams of the type movie
     catalogs: [],
